@@ -1,6 +1,6 @@
 import React from "react";
 import {useLoader} from "@react-three/fiber"
-import { OrbitControls } from "@react-three/drei";
+import { OrbitControls, Stars } from "@react-three/drei";
 import * as THREE from "three";
 
 import MarsDayMap from "../../assets/textures/5672_mars_4k_color.jpg";
@@ -14,7 +14,16 @@ export function Mars(props) {
     return (
     <>
         <ambientLight intensity={0.03} />
-        <spotLight intensity={1} position={[10,5,10]} />
+        <spotLight 
+            intensity={1} 
+            position={[10,5,10]} />
+        <Stars 
+            radius={300} 
+            depth={60} 
+            count={10000} 
+            factor={7} 
+            saturation={0} 
+            fade={true}/>
         <mesh>
             <sphereGeometry args={[3.02,32,32]} />
             <meshPhongMaterial 
