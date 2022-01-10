@@ -10,7 +10,7 @@ html, body, canvas, #root {
 }
 
 #root {
-  background-color: rgb(0, 0, 15);
+  background-color: black;
 }
 
 code {
