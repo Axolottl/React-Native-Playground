@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Axolottl/React-Three-Playground/static/css/main.1f7460d3.css",
+    "main.js": "/Axolottl/React-Three-Playground/static/js/main.a37f514b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Axolottl/React-Three-Playground/static/js/787.28cb0dcd.chunk.js",
+    "static/media/5672_marsmap4k.jpg": "/Axolottl/React-Three-Playground/static/media/5672_marsmap4k.b20697220081beb52009.jpg",
+    "static/media/mars_cloud_texture_by_aviacionvenezolana_ddneq0x-pre.png": "/Axolottl/React-Three-Playground/static/media/mars_cloud_texture_by_aviacionvenezolana_ddneq0x-pre.85512169641f4a2e038a.png",
+    "static/media/5672_mars_4k_normal.jpg": "/Axolottl/React-Three-Playground/static/media/5672_mars_4k_normal.34f86b45b4c7182cc35d.jpg",
+    "index.html": "/Axolottl/React-Three-Playground/index.html",
+    "main.1f7460d3.css.map": "/Axolottl/React-Three-Playground/static/css/main.1f7460d3.css.map",
+    "main.a37f514b.js.map": "/Axolottl/React-Three-Playground/static/js/main.a37f514b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Axolottl/React-Three-Playground/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f7460d3.css",
+    "static/js/main.a37f514b.js"
+  ]
+}
