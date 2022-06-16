@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/React-Three-Playground/static/css/main.1f7460d3.css",
-    "main.js": "/React-Three-Playground/static/js/main.e37c500b.js",
+    "main.js": "/React-Three-Playground/static/js/main.58b1d473.js",
     "static/js/787.28cb0dcd.chunk.js": "/React-Three-Playground/static/js/787.28cb0dcd.chunk.js",
     "static/media/5672_marsmap4k.jpg": "/React-Three-Playground/static/media/5672_marsmap4k.b20697220081beb52009.jpg",
+    "static/media/adkYbBEy_o.png": "/React-Three-Playground/static/media/adkYbBEy_o.12d2f9ef309e8797f845.png",
     "static/media/mars_cloud_texture_by_aviacionvenezolana_ddneq0x-pre.png": "/React-Three-Playground/static/media/mars_cloud_texture_by_aviacionvenezolana_ddneq0x-pre.85512169641f4a2e038a.png",
     "static/media/5672_mars_4k_normal.jpg": "/React-Three-Playground/static/media/5672_mars_4k_normal.34f86b45b4c7182cc35d.jpg",
     "index.html": "/React-Three-Playground/index.html",
     "main.1f7460d3.css.map": "/React-Three-Playground/static/css/main.1f7460d3.css.map",
-    "main.e37c500b.js.map": "/React-Three-Playground/static/js/main.e37c500b.js.map",
+    "main.58b1d473.js.map": "/React-Three-Playground/static/js/main.58b1d473.js.map",
     "787.28cb0dcd.chunk.js.map": "/React-Three-Playground/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f7460d3.css",
-    "static/js/main.e37c500b.js"
+    "static/js/main.58b1d473.js"
   ]
 }
